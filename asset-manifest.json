@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f4c1-react-calc/static/css/main.b346933d.css",
+    "main.js": "/f4c1-react-calc/static/js/main.db1fdc8f.js",
+    "index.html": "/f4c1-react-calc/index.html",
+    "main.b346933d.css.map": "/f4c1-react-calc/static/css/main.b346933d.css.map",
+    "main.db1fdc8f.js.map": "/f4c1-react-calc/static/js/main.db1fdc8f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b346933d.css",
+    "static/js/main.db1fdc8f.js"
+  ]
+}
